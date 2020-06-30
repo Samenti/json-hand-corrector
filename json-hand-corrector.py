@@ -1,3 +1,12 @@
+"""
+Simple Python program, that loads a json file and serves up 
+the list of lists of strings it finds there on the screen
+for correction.
+
+Auxiliary program for wiktionary-scraper/fdtt.
+"""
+
+
 import io
 import json
 import tkinter as tk
